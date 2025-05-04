@@ -17,7 +17,7 @@ export async function connectMetaMask() {
 }
 
 // Contract address and ABI
-const contractAddress = '0xfA224De740979215a51162d27C0Db1621A4712A9';
+const contractAddress = '0x4E839b2d73BDB6B730299b7f5a28Acf6f949e2a9';
 const abi = [
 	{
 		"inputs": [

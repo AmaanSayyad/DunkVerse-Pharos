@@ -673,8 +673,8 @@ export const mainContractABI = [
 		"type": "function"
 	}
 ];
-export const mainContractAddress = '0xaD488Cd332034434240828F987d6E6B991D48125';
-export const tokenAddress = '0xaF1968db67Dd7161D2AF04917b03240DE638ec15';
+export const mainContractAddress = '0x164D1bBaD8De402b80f65fCa468CacF294865ca7';
+export const tokenAddress = '0x97Bb76b7421Be35aE8a201BA581A67B29f80dc5B';
 export const tokenAbi = [
 	{
 		"inputs": [],
@@ -1279,7 +1279,7 @@ export const tokenAbi = [
 	}
 ];
 
-export const nftContractAddress = '0xEa8860639d003c9B746B94d077D6dD5052e7cF5d';
+export const nftContractAddress = '0xE4c277c1aFFc8C1Eaa2c5CaFAf9720d527BDB674';
 export const nftContractABI = [
 	{
 		"inputs": [

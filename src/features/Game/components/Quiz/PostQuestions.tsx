@@ -34,7 +34,7 @@ const PostQuestions = () => {
     if (!signer) return;
     setLoading(true);
     try {
-      const nftContractAddress = '0xEa8860639d003c9B746B94d077D6dD5052e7cF5d'; // AIGeneratedNFT contract address
+      const nftContractAddress = '0xE4c277c1aFFc8C1Eaa2c5CaFAf9720d527BDB674'; // AIGeneratedNFT contract address
       const nftContractInstance = new ethers.Contract(nftContractAddress, nftContractABI, signer);
 
       const nftId = preQuestions.NFTFlowId; // Assuming NFTFlowId is the nftId

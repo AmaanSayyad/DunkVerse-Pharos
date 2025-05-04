@@ -63,7 +63,7 @@ export const useQuizContext = () => {
 };
 
 const contractAddresses = {
-  50002: { token: '0x97Bb76b7421Be35aE8a201BA581A67B29f80dc5B' , main: '' }, // Pharos Devnet
+  50002: { token: '0x97Bb76b7421Be35aE8a201BA581A67B29f80dc5B' , main: '0x164D1bBaD8De402b80f65fCa468CacF294865ca7' }, // Pharos Devnet
   5003: { token: '0xaF1968db67Dd7161D2AF04917b03240DE638ec15', main: '0xaD488Cd332034434240828F987d6E6B991D48125' }, // Mantle Sepolia Testnet
   43113: { token: '0xC24A824A3e1636247deA0E427b849d8Fa05dB022', main: '0x9434F069F57CD2084e3864C4DB5598835b6F6F18' }, // Avalanche Testnet
   5611: { token: '0x8ee64A53C83C52c4eCDDB4cE946ED37928D9Ab61', main: '0x6a07aEBE95e24b3c16862741dbCe13B14546860D' }, // OPBNB Testnet
