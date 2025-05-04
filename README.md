@@ -34,12 +34,12 @@ DunkVerse is an innovative blockchain-based sports engagement platform designed 
 
 ## Deployed and Verified Contracts
 
-| Contract Name        | Description                                   | Pharos Devnet Deployed and Verified Contract Links                               |
+| Contract Name        | Description                                   | Pharos Devnet Deployed Contract Address                               |
 |----------------------|-----------------------------------------------|-----------------------------------------------------------------------------------|
-| `DunkVerse.sol`      | ERC-20 token contract for $FTO.               | https:// |
-| `BettingPool.sol`    | Handles GameFi betting logic.                 | https:// |
-| `AIGeneratedNFT.sol` | Manages NFT generation, supply, and transfers.| https:// |
-| `InviteFriends.sol`  | Manages on-chain invitation and rewards.      | https:// |
+| `DunkVerse.sol`      | ERC-20 token contract for $FTO.               | 0x97Bb76b7421Be35aE8a201BA581A67B29f80dc5B |
+| `BettingPool.sol`    | Handles GameFi betting logic.                 | 0x164D1bBaD8De402b80f65fCa468CacF294865ca7 |
+| `AIGeneratedNFT.sol` | Manages NFT generation, supply, and transfers.| 0xE4c277c1aFFc8C1Eaa2c5CaFAf9720d527BDB674 |
+| `InviteFriends.sol`  | Manages on-chain invitation and rewards.      | 0x4E839b2d73BDB6B730299b7f5a28Acf6f949e2a9 |
 
 ## Key Technologies
 
